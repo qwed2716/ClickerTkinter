@@ -29,10 +29,6 @@ A simple and addictive clicker game built with Python's Tkinter GUI library. Cli
     python clicker_game.py
     ```
 
-## 📸 Screenshot
-
-![Clicker-Leveler Screenshot](screenshot.png) *(You can add a screenshot later)*
-
 ## 🛠️ How It Works
 
 The core logic is simple:
