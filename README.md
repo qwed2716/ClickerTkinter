@@ -1,4 +1,4 @@
-# 🖱️ Clicker-Leveler
+# 🖱️ Clicker
 
 A simple and addictive clicker game built with Python's Tkinter GUI library. Click the button to increase your score and watch your "status" change as you progress. A perfect starter project for Python GUI learners.
 
